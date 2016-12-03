@@ -64,6 +64,8 @@ Bike lanes that are painted green are a signal for areas where bikes and cars ma
 
 Locking Your Bike
 -----------------
+There is an indoor bike rack at Ada HQ that can accommodate up to 8 bikes.
+
 There are tons of bike racks around, on the street or in parking garages, so you should never have trouble finding one.
 
 If your wheels are quick-release, consider buying two locks: a hefty U-Lock and a thick chain lock. The U-Lock should go around your wheel, the parking rack, and the frame of your bike. The chain can go around your rear wheel and the parking rack. The chain lock isn’t necessary since rear wheels are more custom than front wheels, but it’s nice to not worry about it ever being stolen.
@@ -105,10 +107,8 @@ Bike Know-Hows
 
 Seattle Bike Community Resources
 --------------------------------
-[Seattle Greenways Map]: http://www.seattle.gov/transportation/greenwaysworkplan.htm
-
-[Cascade Bicycle Club]: http://www.cascade.org/
-
-[Seattle Bike Blog]: http://www.seattlebikeblog.com/
-
-[Bike "Squiggles" - Seattle Routes for Avoiding Inclines]: http://www.prontocycleshare.com/squiggles
+* Request a free physical bike map through [Seattle's Department of Transportation](http://www.seattle.gov/transportation/bikemaps.htm)
+* [Seattle Greenways Map](http://www.seattle.gov/transportation/greenwaysworkplan.htm)
+* [Cascade Bicycle Club](http://www.cascade.org/)
+* [Seattle Bike Blog](http://www.seattlebikeblog.com/)
+* [Bike "Squiggles" - Seattle Routes for Avoiding Inclines](http://www.prontocycleshare.com/squiggles)
