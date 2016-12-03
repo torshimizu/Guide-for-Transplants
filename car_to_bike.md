@@ -111,4 +111,4 @@ Seattle Bike Community Resources
 * [Seattle Greenways Map](http://www.seattle.gov/transportation/greenwaysworkplan.htm)
 * [Cascade Bicycle Club](http://www.cascade.org/)
 * [Seattle Bike Blog](http://www.seattlebikeblog.com/)
-* [Bike "Squiggles" - Seattle Routes for Avoiding Inclines](http://www.prontocycleshare.com/squiggles)
+* [Bike "Squiggles"](http://www.prontocycleshare.com/squiggles) Seattle Routes for Avoiding Inclines
