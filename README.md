@@ -4,7 +4,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 
 
 
-##Table of Contents
+## Table of Contents
 - [Misconceptions About Seattle](#misconceptions-about-seattle)
 - [Housing](#housing)
 - [Neighborhoods](#neighborhoods)
