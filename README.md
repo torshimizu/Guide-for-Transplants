@@ -278,5 +278,4 @@ If you have any additional questions, feel free to reach out to us via email or 
 **Twitter**  
 [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)  
 [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)  
-[Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)  
-[All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)  
+[Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)    
