@@ -250,8 +250,8 @@ I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with
   - **Get Internet! Cable! Utilities!**  
     If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location. The options available in Seattle are Comcast, CenturyLink, Wave, and Condo Internet.
 
-  - **Get a library card**  
-    The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things! Said things include free admission to local museums if you book the tickets through the library system! Totally worth it.
+  - **[Get a library card](https://www.spl.org/using-the-library/get-started/library-card-application)**  
+    The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things! Said things include [free admission to local museums](http://www.spl.org/library-collection/museum-pass), [free access to Lynda.com](https://www.spl.org/about-the-library/library-news-releases/lyndacom-319). Totally worth it.
 
   - **Change your driver's license**  
     By law, you have 30 days to change your driver's license and register your car with WA. But let's be honest, you're going to have a lot on your plate. Just make sure you get it done at some point.
