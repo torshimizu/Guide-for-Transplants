@@ -19,6 +19,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Additional Questions?](#asking-questions)
 - **Extra Info on These Topics**:
   - [Seattle's Neighborhoods](/neighborhood_guide.md)
+  - [MFTE: Seattle's Affordable Housing Program](/affordable_housing.md)
   - [Biking in Seattle](/car_to_bike.md)
   - [Public Transit][orcalift]
   - [Bringing A Pet][pet]
@@ -94,7 +95,7 @@ Roommates are usually a lot cheaper than solo living on a monetary scale, but on
 [Lee & Associates](http://www.leeandassociatespm.com/)  
 [Windermere Property Management](http://www.wpmnorthwest.com/rentals)  
 [Hamilton Urban Partners](https://www.hamiltonurban.com/residents/listings/seattle/)  
-
+[MFTE Bible: An Adie's Guide to Seattle's Affordable Housing Program](/affordable_housing.md)
 
 
 ## Neighborhoods
