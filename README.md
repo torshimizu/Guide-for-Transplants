@@ -23,6 +23,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
   - [Biking in Seattle](/car_to_bike.md)
   - [Public Transit][orcalift]
   - [Bringing A Pet][pet]
+  - [Places To Study in Seattle][/places_to_study]
 
 
 
