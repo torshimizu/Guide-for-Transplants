@@ -95,3 +95,15 @@ Beacon hill is a great neighborhood with an excellent community center, its very
 _Street addresses: S._
 
 These neighborhoods rock but are a bit far from the action of downtown. A lot of the older restaurants, bars, and corner stores are still intact in these neighborhoods, and there are a ton of large grocery stores and markets. Columbia City has a fantastic farmers market and a short, fairly recently gentrified strip of restaurants and bars. Alas, the magical greek restaurant & laundromat has shut down.
+
+### Greenlake & Greenwood
+
+_Street addresses: N._
+
+Situated in the middle of the upper half of Seattle, Greenlake is an awesome outlet for exercise, relaxation, and reflection - making it a great place to soak up some necessary Vitamin D when the sun comes out. Greenlake and Greenwood house some of the more residential apartments and homes, so the neighborhoods feel quiet and cozy. Catching a RapidRide downtown or a bus to the light rail is easy with the abundant bus lines in the area. Greenwood Ave has a bunch of shops, restaurants, and coffee shops and is very bikable. The further north you go, the more likely you'll find a more affordable apartment or house, and if you stick close to the RapidRide lines, it will be easy to get to Belltown or SLU.
+
+### Lake City
+
+_Street addresses: NE._
+
+This might be the place to find some of the least expensive apartments or houses in the city. The neighborhood is rather far away from downtown, but wouldn't be a terrible commute if needing to get to the eastside (Bellevue, Redmond, Kirkland). There's not much that is walkable in this neighborhood, but it does have an indoor dog park (Dogwood) if you have a dog in your family! If you find a place along Lake City Way, bus 522 goes directly to Ada. 
